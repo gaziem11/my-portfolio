@@ -1,0 +1,12 @@
+# Biomedical ML Project
+
+## Description
+Machine learning model for [describe what your code does]
+
+## Requirements
+- Python 3.8+
+- Libraries: pandas, numpy, scikit-learn, matplotlib
+
+## Installation
+```bash
+pip install -r requirements.txt
